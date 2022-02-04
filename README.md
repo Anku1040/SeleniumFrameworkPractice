@@ -1,1 +1,2 @@
 # SeleniumFrameworkPractice
+# created new repository
